@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ion/Documents/Projects/C++/teorie/extra/header/build",
+  "command": "/usr/bin/g++  -I/home/ion/Documents/Projects/C++/teorie/extra/header/include -g -o CMakeFiles/salut.dir/main.cpp.o -c /home/ion/Documents/Projects/C++/teorie/extra/header/main.cpp",
+  "file": "/home/ion/Documents/Projects/C++/teorie/extra/header/main.cpp"
+}
+]

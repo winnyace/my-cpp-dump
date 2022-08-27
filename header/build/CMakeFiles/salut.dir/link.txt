@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/salut.dir/main.cpp.o -o salut 
