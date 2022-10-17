@@ -1,6 +1,15 @@
 #include <iostream>
 using namespace std;
 
+/*
+Subprogramul putere are trei parametri:
+• n, prin care primește un număr natural din intervalul [2,10^9];
+• d și p, prin care furnizează divizorul prim, d, care apare la cea mai mare putere, p, în descompunerea în
+factori primi a lui n; dacă există mai mulți astfel de divizori se afișează cel mai mare dintre ei.
+Scrieți definiția completă a subprogramului.
+*/
+
+
 void puture(int n, int &d, int &p)
 {
     int k_p, k_d = 2;

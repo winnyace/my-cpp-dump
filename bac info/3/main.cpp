@@ -4,7 +4,7 @@ using namespace std;
 
 /*
 Două numere distincte a și b sunt numite d-fii ai unui număr natural n dacă a∙b=n.
-Subprogramul fii are un singur parametru, n, prin care primește un număr natural (n e [2,109]).
+Subprogramul fii are un singur parametru, n, prin care primește un număr natural (n e [2,10^9]).
 Subprogramul afișează pe ecran toate perechile distincte de numere naturale cu proprietatea că sunt d-fii ai
 lui n. Fiecare pereche este afișată încadrată între paranteze rotunde, numerele din pereche fiind afișate în
 ordine strict descrescătoare, separate printr-un spațiu. Scrieți definiția completă a subprogramului.
