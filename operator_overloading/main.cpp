@@ -6,7 +6,7 @@ struct test
     int x, y;
 
     test() : x(0), y(0) {} // avem un simplu constructor aici.
-    test(int num1, int num2) : x(num1), y(num2) {} // iar cel de al doilea constructor este folosit mai jos.
+    test(int _x, int _y) : x(_x), y(_y) {} // iar cel de al doilea constructor este folosit mai jos.
     
     test operator + (const test& dr) // putem defini cum un anumit operator poate funcționa asupra unei structuri sau clase.
     // numele_structuri operator operatorul_matematic_dorit (referință_către_membrul_2_al_operației_matematice)
