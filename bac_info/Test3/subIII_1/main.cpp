@@ -1,3 +1,4 @@
+// Testul 3, Sub 3, Pb 1:
 // Subprogramul factori are doi parametri, n şi m, prin care primește câte un număr natural din intervalul
 // [1,109]. Subprogramul returnează numărul valorilor prime care se regăsesc atât în descompunerea în
 // factori primi a lui n, cât și în descompunerea în factori primi a lui m.
