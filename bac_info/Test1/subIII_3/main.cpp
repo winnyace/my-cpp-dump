@@ -13,7 +13,7 @@ using namespace std;
 
 int main()
 {
-    ofstream f("bac.txt");
+    ofstream f("/home/ion/Documents/Projects/C++_dump/bac_info/Test1/subIII_3/bac.txt");
     int x, y, aux;
     cin >> x >> y;
     f << y << " " << x << " ";
@@ -26,4 +26,10 @@ int main()
     }
     f << 1;
     f.close();
+
+    ifstream _f("/home/ion/Documents/Projects/C++_dump/bac_info/Test1/subIII_3/bac.txt");
+    while (_f >> x)
+        cout << x << " ";
+    _f.close();
+    return 0;
 }
