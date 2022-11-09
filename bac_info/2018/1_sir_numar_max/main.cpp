@@ -9,7 +9,7 @@ int main()
     int num, max = 0;
     cin.get(s, 101);
     
-    for(size_t i = 0; i < strlen(s); i++)
+    for (size_t i = 0; i < strlen(s); i++)
         if (s[i] >= '0' && s[i] <= '9')
         {
             char aux[30]; strcpy(aux, s+i);
