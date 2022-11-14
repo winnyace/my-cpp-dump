@@ -56,7 +56,9 @@ int main()
             f_o << endl;
             op_con++;
         }
+        cout << "gata. verifica fisierul nr2.txt";
     }
-    cout << "gata. verifica fisierul nr2.txt";
+    else
+        cout << "fisier neexistent";
     return 0;
 }
