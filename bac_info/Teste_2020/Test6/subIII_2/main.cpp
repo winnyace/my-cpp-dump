@@ -14,7 +14,8 @@ int main()
 {
     char s[101], *aux, cuv[30], voc[] = "aeiou";
     int c_voc, c_con;
-    strcpy(s, "ei au plantat tamarix ea a adus iasomie");
+    bool citit = false;
+    cin.get(s, 101);
     aux = strtok(s, " ");
     while (aux != NULL)
     {
@@ -29,7 +30,12 @@ int main()
                 c_voc++;
         }
         if (c_voc < c_con)
+        {
+            citit = true;
             cout << cuv << endl;
+        }
         aux = strtok(NULL, " ");
     }
+    if (citit == false)
+        cout << "nu exista";
 }
