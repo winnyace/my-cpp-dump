@@ -17,7 +17,7 @@ using namespace std;
 
 int main()
 {
-    ifstream f("bac.txt");
+    ifstream f("/home/ion/Documents/Projects/C++_dump/bac_info/Teste_2020/subIII_3/bac.txt");
     int num1, num2, l, l_max, r;
     f >> num1 >> num2;
     l = 2;
