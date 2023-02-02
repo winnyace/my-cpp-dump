@@ -16,16 +16,13 @@ int main()
 {
     ofstream f("/home/ion/Documents/Projects/C++_dump/bac_info/Teste_2020/Test15/subIII_3/bac.out");
     long x;
-    int p1, p2, c1, c2, c3, c4;
+    int p1, p2;
     cin >> p1 >> p2;
     for (x = 1000000; x <= 9999999; x++)
     {
-        c1 = x%10;
-        c2 = (x/10) % 10;
-        c3 = (x/100000) % 10;
-        c4 = (x/1000000) % 10;
-        if (c1*c2 == p2 && c3*c4 == p1)
-            f << x << endl;
+        if ( (x%10) * (x/10%10) == p2 && (x/100000%10) * (x/1000000%10) == p1 )
+            if ( (x/100%10) == (x/1000%10) && (x/100%10) == (x/10000%10) && (x/1000%10) == (x/10000%10) )
+                f << x << endl;
     }
     return 0;
 }
