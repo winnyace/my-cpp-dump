@@ -14,7 +14,7 @@ int main()
 {
     char s[101], *cuv, voc[] = "aeiou";
     int nr_con, nr_voc, nr_cuv = 0;
-    strcpy(s, "cuvantul consoane are un numar de patru vocale si patru consoane");
+    cin.get(s, 101);
     cuv = strtok(s, " ");
     while (cuv != NULL)
     {
