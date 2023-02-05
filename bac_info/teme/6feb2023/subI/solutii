@@ -1,0 +1,5 @@
+1) c (x%2021 => x multiplu de 2021 => restul impărțiri al unui numar la multiplu la care este înmulțit = 0)
+2) b (din 2020, nu poate trece in 2021 pentru că nu are voie, nici 2022, iar 200 și 201 au fost generate deja, deci 21 este generat.)
+3) a
+4) c
+5) 
