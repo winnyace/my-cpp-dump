@@ -12,8 +12,9 @@ using namespace std;
 
 int main()
 {
-    char s[101], *cuv, rez[101] = {'\0'}, voc[] = "aeiou";
+    char s[101], *cuv, rez[101] = {'\0'}, voc[] = "aeiou", s_copie[101];
     cin.get(s, 101);
+    strcpy(s_copie, s);
 
     cuv = strtok(s, " ");
     while (cuv != NULL)
@@ -36,7 +37,9 @@ int main()
         }
         cuv = strtok(NULL, " ");
     }
-    if (strcmp(rez, s) == 0)
+    rez[strlen(rez)-1] = '\0';
+    int l = strlen(s);
+    if (strcmp(rez, s_copie) == 0)
         cout << "nu exista";
     else
     {
