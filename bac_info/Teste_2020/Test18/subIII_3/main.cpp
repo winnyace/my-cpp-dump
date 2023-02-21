@@ -24,26 +24,15 @@ int main()
             contor_curent++;
         else
         {
-            if (contor_maxim_1 == 0)
-            {
-                if (contor_curent > contor_maxim_1)
-                    contor_maxim_1 = contor_curent;
-            }
-            else if (contor_maxim_2 == 0)
-            {
-                if (contor_curent > contor_maxim_2)
-                    contor_maxim_2 = contor_curent;
-            }
-            else
-            {
-                if (contor_curent > contor_maxim_1)
-                    contor_maxim_1 = contor_curent;
-                else 
-                    contor_maxim_2 = contor_curent;
-            }
-            contor_curent = 0;
+            if (contor_curent > contor_maxim_1)
+                contor_maxim_1 = contor_curent;
+            else if (contor_curent > contor_maxim_2 && contor_curent < contor_maxim_1)
+                contor_maxim_2 = contor_curent;
+           contor_curent = 0;
         }
     }
+    if (contor_curent > contor_maxim_2 && contor_curent < contor_maxim_1)
+        contor_maxim_2 = contor_curent;
     cout << contor_maxim_1 << " " << contor_maxim_2;
     f.close();
     return 0;
