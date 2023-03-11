@@ -14,17 +14,23 @@ using namespace std;
 int main()
 {
     ifstream f("bac.in");
-    int x, con = 0;
+    int x, contor_dupa_pozitiv = 0, contor_inainte_pozitiv = 0;
     bool primul_pozitiv_citit = false;
     while (f >> x)
     {
-        if (x > 0 && primul_pozitiv_citit == false)
+        if (x < 0 && primul_pozitiv_citit == false)
+            contor_inainte_pozitiv++;
+        else if (x > 0 && primul_pozitiv_citit == false)
         {
-            con = 1;
+            contor_dupa_pozitiv = 1;
             primul_pozitiv_citit = true;
         }
         else if (primul_pozitiv_citit == true)
-            con++;
+            contor_dupa_pozitiv++;
     }
-    cout << con;
+    if (contor_dupa_pozitiv > contor_inainte_pozitiv)
+        cout << contor_dupa_pozitiv;
+    else
+        cout << contor_inainte_pozitiv;
+    return 0;
 }
