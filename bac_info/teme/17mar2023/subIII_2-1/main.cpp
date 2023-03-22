@@ -4,33 +4,28 @@ using namespace std;
 
 int main()
 {
-    char s[256], c[31], *cuv, voc_c, voc_cuv, voc[] = "aeiou";
+    char s[256], c[31], *cuv, *aux;
     bool arerime = false;
     cin.get(s, 256);
     cin >> c;
 
-    for (int i = strlen(c)/2-1; i <= strlen(c); i++)
-        if(strchr(voc, c[i]) != NULL)
+    for (int i = strlen(c)-1; i >= 0; i--)
+        if (strchr("aeiou", c[i]) != 0)
         {
-            voc_c = c[i];
+            strcpy(c, c+i);
             break;
         }
-    
+
     cuv = strtok(s, " ");
     while (cuv != NULL)
     {
-        for (int i = strlen(cuv)/2-1; i <= strlen(cuv); i++)
-            if (strchr(voc, cuv[i]) != NULL)
-            {
-                voc_cuv = cuv[i];
-                break;
-            }
-        if (voc_c == voc_cuv)
+        aux = cuv+strlen(cuv)-strlen(c);
+        if (strcmp(aux, c) == 0)
         {
             arerime = true;
-            cout << cuv << endl;
+            cout << cuv << " ";
         }
-        cuv = strtok(NULL, " ");
+        cuv = strtok(NULL,  " ");
     }
     if (arerime == false)
         cout << "nu exista";
