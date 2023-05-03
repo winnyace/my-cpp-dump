@@ -13,8 +13,7 @@ void leftPad(std::string& str, int len, char ch)
 
 int main()
 {
-    std::string s;
-    std::getline(std::cin, s);
+    std::string s = "lolololololololol";
     leftPad(s, 10, ' '); 
-    std::cout << s;
+    std::cout << "'" << s << "'"; 
 }
