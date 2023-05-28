@@ -1,3 +1,3 @@
-I fucked up by changing the locale settings lololololololololololololololololololololol
+# My C++ Dump
 
-new one with the same name on my github lol
+This is my C++ dumpster of random shit I've made in C++. From memes, to newbie projects to school shit. Some of it is in Romanian. There isn't a rhythm or reason here.
