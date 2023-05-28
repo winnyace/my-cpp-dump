@@ -1,3 +1,3 @@
-# My C++ Dump
+I fucked up by changing the locale settings lololololololololololololololololololololol
 
-This is a repo related to my C++ dump programs. From random projects to learning about things, this is where I put all of it. Loosely categorized. Some are in Romanian too. The definition of a dumpster fire.
+new one with the same name on my github lol
