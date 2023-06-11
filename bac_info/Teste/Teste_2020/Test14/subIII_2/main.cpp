@@ -13,7 +13,7 @@ using namespace std;
 
 int main()
 {
-    char s[101], *cuv, aux[10], rez[101];
+    char s[101], *cuv, aux[10], rez[101] = {'\0'};
     cin.get(s, 101);
     cuv = strtok(s, " ");
     while (cuv != NULL)

@@ -28,6 +28,8 @@ void perechi(int n)
         }
         a += 2; b += 2;
     }
+    if (exista == false)
+        cout << "nu exista";
 }
 
 int main()
