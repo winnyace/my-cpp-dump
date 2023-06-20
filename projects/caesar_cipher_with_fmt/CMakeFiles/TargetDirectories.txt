@@ -1,0 +1,3 @@
+/home/ion/Documents/Projects/my-cpp-dump/projects/caesar_cipher_with_fmt/CMakeFiles/main.dir
+/home/ion/Documents/Projects/my-cpp-dump/projects/caesar_cipher_with_fmt/CMakeFiles/edit_cache.dir
+/home/ion/Documents/Projects/my-cpp-dump/projects/caesar_cipher_with_fmt/CMakeFiles/rebuild_cache.dir

@@ -1,5 +1,5 @@
 CMakeFiles/main.dir/main.cpp.o: \
- /home/ion/Documents/Projects/my-cpp-dump/proiecte/codare_cezar_2/main.cpp \
+ /home/ion/Documents/Projects/my-cpp-dump/projects/caesar_cipher_with_fmt/main.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/13.1.1/cstdlib \
  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/c++config.h \
  /usr/include/c++/13.1.1/x86_64-pc-linux-gnu/bits/os_defines.h \

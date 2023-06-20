@@ -1,3 +1,0 @@
-/home/ion/Documents/Projects/my-cpp-dump/proiecte/codare_cezar_2/CMakeFiles/main.dir
-/home/ion/Documents/Projects/my-cpp-dump/proiecte/codare_cezar_2/CMakeFiles/edit_cache.dir
-/home/ion/Documents/Projects/my-cpp-dump/proiecte/codare_cezar_2/CMakeFiles/rebuild_cache.dir

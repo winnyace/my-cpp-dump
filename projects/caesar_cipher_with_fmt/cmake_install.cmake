@@ -1,4 +1,4 @@
-# Install script for directory: /home/ion/Documents/Projects/my-cpp-dump/proiecte/codare_cezar_2
+# Install script for directory: /home/ion/Documents/Projects/my-cpp-dump/projects/caesar_cipher_with_fmt
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/ion/Documents/Projects/my-cpp-dump/proiecte/codare_cezar_2/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/ion/Documents/Projects/my-cpp-dump/projects/caesar_cipher_with_fmt/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
