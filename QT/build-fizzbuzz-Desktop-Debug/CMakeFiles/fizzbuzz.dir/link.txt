@@ -1,0 +1,1 @@
+/usr/bin/g++ -DQT_QML_DEBUG -g CMakeFiles/fizzbuzz.dir/fizzbuzz_autogen/mocs_compilation.cpp.o CMakeFiles/fizzbuzz.dir/main.cpp.o CMakeFiles/fizzbuzz.dir/mainwindow.cpp.o -o fizzbuzz  /usr/lib/libQt5Widgets.so.5.15.10 /usr/lib/libQt5Gui.so.5.15.10 /usr/lib/libQt5Core.so.5.15.10 

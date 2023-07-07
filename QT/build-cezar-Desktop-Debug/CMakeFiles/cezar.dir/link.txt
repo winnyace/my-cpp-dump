@@ -1,0 +1,1 @@
+/usr/bin/g++ -DQT_QML_DEBUG -g CMakeFiles/cezar.dir/cezar_autogen/mocs_compilation.cpp.o CMakeFiles/cezar.dir/main.cpp.o CMakeFiles/cezar.dir/mainwindow.cpp.o -o cezar  /usr/lib/libQt5Widgets.so.5.15.10 /usr/lib/libQt5Gui.so.5.15.10 /usr/lib/libQt5Core.so.5.15.10 

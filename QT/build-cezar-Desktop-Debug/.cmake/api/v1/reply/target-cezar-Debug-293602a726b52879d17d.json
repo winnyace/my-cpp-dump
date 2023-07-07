@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "hello_user_gui"
+			"path" : "cezar"
 		}
 	],
 	"backtrace" : 1,
@@ -112,7 +112,7 @@
 			[
 				{
 					"backtrace" : 0,
-					"path" : "/home/ion/Documents/Projects/my-cpp-dump/QT/build-hello_user_gui-Desktop-Debug/hello_user_gui_autogen/include"
+					"path" : "/home/ion/Documents/Projects/my-cpp-dump/QT/build-cezar-Desktop-Debug/cezar_autogen/include"
 				},
 				{
 					"backtrace" : 3,
@@ -161,10 +161,10 @@
 	[
 		{
 			"backtrace" : 0,
-			"id" : "hello_user_gui_autogen::@6890427a1f51a3e7e1df"
+			"id" : "cezar_autogen::@6890427a1f51a3e7e1df"
 		}
 	],
-	"id" : "hello_user_gui::@6890427a1f51a3e7e1df",
+	"id" : "cezar::@6890427a1f51a3e7e1df",
 	"install" : 
 	{
 		"destinations" : 
@@ -193,24 +193,24 @@
 			},
 			{
 				"backtrace" : 3,
-				"fragment" : "/usr/lib/libQt5Widgets.so.5.15.9",
+				"fragment" : "/usr/lib/libQt5Widgets.so.5.15.10",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 9,
-				"fragment" : "/usr/lib/libQt5Gui.so.5.15.9",
+				"fragment" : "/usr/lib/libQt5Gui.so.5.15.10",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 9,
-				"fragment" : "/usr/lib/libQt5Core.so.5.15.9",
+				"fragment" : "/usr/lib/libQt5Core.so.5.15.10",
 				"role" : "libraries"
 			}
 		],
 		"language" : "CXX"
 	},
-	"name" : "hello_user_gui",
-	"nameOnDisk" : "hello_user_gui",
+	"name" : "cezar",
+	"nameOnDisk" : "cezar",
 	"paths" : 
 	{
 		"build" : ".",
@@ -249,7 +249,7 @@
 			"backtrace" : 0,
 			"compileGroupIndex" : 0,
 			"isGenerated" : true,
-			"path" : "/home/ion/Documents/Projects/my-cpp-dump/QT/build-hello_user_gui-Desktop-Debug/hello_user_gui_autogen/mocs_compilation.cpp",
+			"path" : "/home/ion/Documents/Projects/my-cpp-dump/QT/build-cezar-Desktop-Debug/cezar_autogen/mocs_compilation.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -277,7 +277,7 @@
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "/home/ion/Documents/Projects/my-cpp-dump/QT/build-hello_user_gui-Desktop-Debug/hello_user_gui_autogen/include/ui_mainwindow.h",
+			"path" : "/home/ion/Documents/Projects/my-cpp-dump/QT/build-cezar-Desktop-Debug/cezar_autogen/include/ui_mainwindow.h",
 			"sourceGroupIndex" : 1
 		}
 	],

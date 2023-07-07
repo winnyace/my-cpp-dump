@@ -124,9 +124,9 @@ hello_user_gui: CMakeFiles/hello_user_gui.dir/hello_user_gui_autogen/mocs_compil
 hello_user_gui: CMakeFiles/hello_user_gui.dir/main.cpp.o
 hello_user_gui: CMakeFiles/hello_user_gui.dir/mainwindow.cpp.o
 hello_user_gui: CMakeFiles/hello_user_gui.dir/build.make
-hello_user_gui: /usr/lib/libQt5Widgets.so.5.15.9
-hello_user_gui: /usr/lib/libQt5Gui.so.5.15.9
-hello_user_gui: /usr/lib/libQt5Core.so.5.15.9
+hello_user_gui: /usr/lib/libQt5Widgets.so.5.15.10
+hello_user_gui: /usr/lib/libQt5Gui.so.5.15.10
+hello_user_gui: /usr/lib/libQt5Core.so.5.15.10
 hello_user_gui: CMakeFiles/hello_user_gui.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/ion/Documents/Projects/my-cpp-dump/QT/build-hello_user_gui-Desktop-Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable hello_user_gui"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/hello_user_gui.dir/link.txt --verbose=$(VERBOSE)
