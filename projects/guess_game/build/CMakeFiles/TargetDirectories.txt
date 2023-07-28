@@ -1,0 +1,3 @@
+/home/ion/Documents/Projects/my-cpp-dump/projects/guess_game/build/CMakeFiles/main.dir
+/home/ion/Documents/Projects/my-cpp-dump/projects/guess_game/build/CMakeFiles/edit_cache.dir
+/home/ion/Documents/Projects/my-cpp-dump/projects/guess_game/build/CMakeFiles/rebuild_cache.dir

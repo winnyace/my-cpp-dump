@@ -1,0 +1,1 @@
+/usr/bin/g++ -DQT_QML_DEBUG -g CMakeFiles/guessing_number_game.dir/guessing_number_game_autogen/mocs_compilation.cpp.o CMakeFiles/guessing_number_game.dir/main.cpp.o CMakeFiles/guessing_number_game.dir/mainwindow.cpp.o -o guessing_number_game  /usr/lib/libQt5Widgets.so.5.15.10 /usr/lib/libQt5Gui.so.5.15.10 /usr/lib/libQt5Core.so.5.15.10 

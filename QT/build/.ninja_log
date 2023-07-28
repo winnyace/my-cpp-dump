@@ -1,0 +1,9 @@
+# ninja log v5
+1	314	1688876067562084455	cezar_autogen/timestamp	ab9ad5103f9450f0
+1	314	1688876067562084455	cezar_autogen/mocs_compilation.cpp	ab9ad5103f9450f0
+1	314	1688876067562084455	/home/ion/Documents/Projects/my-cpp-dump/QT/build/cezar_autogen/timestamp	ab9ad5103f9450f0
+1	314	1688876067562084455	/home/ion/Documents/Projects/my-cpp-dump/QT/build/cezar_autogen/mocs_compilation.cpp	ab9ad5103f9450f0
+2	1811	1688876076766170338	CMakeFiles/cezar.dir/cezar_autogen/mocs_compilation.cpp.o	de0103684e90a24a
+2	1848	1688876076804170693	CMakeFiles/cezar.dir/main.cpp.o	eebe5747d669ef8b
+2	2094	1688876077050172991	CMakeFiles/cezar.dir/mainwindow.cpp.o	8ede12c35b80ff08
+2094	2453	1688876077410176353	cezar	9fe21a408838797

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/ion/Documents/Projects/my-cpp-dump/projects/guess_game/build",
+  "command": "/usr/bin/clang++ -DFMT_SHARED -I/home/ion/Documents/Projects/my-cpp-dump/projects/guess_game/include -g -o CMakeFiles/main.dir/main.cpp.o -c /home/ion/Documents/Projects/my-cpp-dump/projects/guess_game/main.cpp",
+  "file": "/home/ion/Documents/Projects/my-cpp-dump/projects/guess_game/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+}
+]

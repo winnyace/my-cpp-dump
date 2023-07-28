@@ -1,0 +1,8 @@
+/home/ion/Documents/Projects/my-cpp-dump/QT/build-guessing_number_game-Desktop-Debug/CMakeFiles/guessing_number_game.dir
+/home/ion/Documents/Projects/my-cpp-dump/QT/build-guessing_number_game-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/ion/Documents/Projects/my-cpp-dump/QT/build-guessing_number_game-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/ion/Documents/Projects/my-cpp-dump/QT/build-guessing_number_game-Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/ion/Documents/Projects/my-cpp-dump/QT/build-guessing_number_game-Desktop-Debug/CMakeFiles/install.dir
+/home/ion/Documents/Projects/my-cpp-dump/QT/build-guessing_number_game-Desktop-Debug/CMakeFiles/install/local.dir
+/home/ion/Documents/Projects/my-cpp-dump/QT/build-guessing_number_game-Desktop-Debug/CMakeFiles/install/strip.dir
+/home/ion/Documents/Projects/my-cpp-dump/QT/build-guessing_number_game-Desktop-Debug/CMakeFiles/guessing_number_game_autogen.dir

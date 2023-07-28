@@ -1,0 +1,9 @@
+/home/ion/Documents/Projects/my-cpp-dump/QT/build/CMakeFiles/cezar.dir
+/home/ion/Documents/Projects/my-cpp-dump/QT/build/CMakeFiles/edit_cache.dir
+/home/ion/Documents/Projects/my-cpp-dump/QT/build/CMakeFiles/rebuild_cache.dir
+/home/ion/Documents/Projects/my-cpp-dump/QT/build/CMakeFiles/list_install_components.dir
+/home/ion/Documents/Projects/my-cpp-dump/QT/build/CMakeFiles/install.dir
+/home/ion/Documents/Projects/my-cpp-dump/QT/build/CMakeFiles/install/local.dir
+/home/ion/Documents/Projects/my-cpp-dump/QT/build/CMakeFiles/install/strip.dir
+/home/ion/Documents/Projects/my-cpp-dump/QT/build/CMakeFiles/cezar_autogen_timestamp_deps.dir
+/home/ion/Documents/Projects/my-cpp-dump/QT/build/CMakeFiles/cezar_autogen.dir

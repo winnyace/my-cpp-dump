@@ -1,0 +1,1 @@
+/usr/bin/g++ -DQT_QML_DEBUG -g CMakeFiles/calculator_attempt.dir/calculator_attempt_autogen/mocs_compilation.cpp.o CMakeFiles/calculator_attempt.dir/main.cpp.o CMakeFiles/calculator_attempt.dir/mainwindow.cpp.o -o calculator_attempt  /usr/lib/libQt5Widgets.so.5.15.10 /usr/lib/libQt5Gui.so.5.15.10 /usr/lib/libQt5Core.so.5.15.10 

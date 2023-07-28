@@ -28,6 +28,10 @@ void MainWindow::on_pushButton_clicked() // shift by one forward
             output += input.at(i) + 1;
         else if (input.at(i) == 'z')
             output += input.at(i)-('z'-'a');
+        else if (input.at(i) >= 'A' && input.at(i) < 'Z')
+            output += input.at(i) + 1;
+        else if (input.at(i) == 'Z')
+            output += input.at(i) - ('Z' - 'A');
         else
             output += input.at(i);
     }
@@ -47,7 +51,11 @@ void MainWindow::on_pushButton_2_clicked() // shift by one backward
         if (input.at(i) >= 'a' && input.at(i) < 'z')
             output += input.at(i) - 1;
         else if (input.at(i) == 'z')
-            output += input.at(i)-('z'-'a');
+            output += input.at(i) - ('z'-'a');
+        else if (input.at(i) >= 'A' && input.at(i) < 'Z')
+            output += input.at(i) - 1;
+        else if (input.at(i) == 'Z')
+            output += input.at(i) - ('Z' - 'A');
         else
             output += input.at(i);
     }

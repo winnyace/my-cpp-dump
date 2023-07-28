@@ -71,7 +71,11 @@
         "cinttypes": "cpp",
         "typeinfo": "cpp",
         "variant": "cpp",
-        "string.h": "c"
+        "string.h": "c",
+        "any": "cpp",
+        "bitset": "cpp",
+        "forward_list": "cpp"
     },
-    "cmake.configureOnOpen": false
+    "cmake.configureOnOpen": false,
+    "cmake.sourceDirectory": "/home/ion/Documents/Projects/my-cpp-dump/projects/caesar_cipher_with_fmt"
 }
