@@ -1,0 +1,6 @@
+# ignoring build artifacts
+build/
+
+# ignoring local configuration files QT Creator generates
+CMakeLists.txt.user
+.qtcreator/
